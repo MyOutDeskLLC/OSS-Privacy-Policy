@@ -25,4 +25,4 @@ Some third party APIs collect information such as fingerprints.
 * AutoBCC for Gmail does not use any third party API which collects data on the local user. 
 
 # Changes
-Tihs page will be updated and users will be alerted and be required to accept a privacy policy (in the form of a dialogue box) if a change occurs in the collection of user information.
+This page will be updated and users will be alerted and be required to accept a privacy policy (in the form of a dialogue box) if a change occurs in the collection of user information.
