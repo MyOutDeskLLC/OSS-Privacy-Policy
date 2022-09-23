@@ -5,8 +5,15 @@ The purpose of this policy is to govern the collection and use of personal data 
 * AutoBCC for Gmail
 
 ## Data Collected
-* No data, personal or otherwise, is collected by MyOutDesk, LLC.
-* No data, personal or otherwise, is transmitted to MyOutDesk, LLC
+* Extensions will collect data you elect to enter and store this data locally in the storage api
+
+## Data Transmitted
+No data is transmitted to MyOutDesk, LLC. 
+
+Additionally, MyOutDesk:
+
+* Does not use any tracking cookies or fingerprinting
+* Do not use third-party software such as analytics software, etc.
 
 ## Chrome Storage API
 Our extensions make use of the Chrome Storage API to store information about the local users configuration. For AutoBCC, this data will contain email addresses that you, the user, elect to enter. Google may sync this information across various devices automatically.
