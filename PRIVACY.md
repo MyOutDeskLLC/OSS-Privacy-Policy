@@ -9,10 +9,9 @@ The purpose of this policy is to govern the collection and use of personal data 
 * No data, personal or otherwise, is transmitted to MyOutDesk, LLC
 
 ## Chrome Storage API
-Our extensions make use of the Chrome Storage API to store information about the local users configuration. For AutoBCC, this data will contain email addresses.
-Google will sync this information across various devices automatically. 
+Our extensions make use of the Chrome Storage API to store information about the local users configuration. For AutoBCC, this data will contain email addresses that you, the user, elect to enter. Google may sync this information across various devices automatically.
 
-Our extension will read and write to this data, but will not transmit it.
+Our extension will read and write to this data locally, but will never transmit it.
 
 ## Third Party API
 Some third party APIs collect information such as fingerprints. 
